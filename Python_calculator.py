@@ -1,8 +1,8 @@
 #Special Calculator
 #wrote by HAO PENG. ID:1780718
 
-from tkinter import*
-from math import*
+from tkinter import*        # importing tkinter 
+from math import*           # importing math module to perform mathmatical functions in our program
 
 num_reg=0                   #fot one-argument option, this variable store the number. for two-arguments option, it store the first argument
 symbol_record=''            #this variable store the operational character
